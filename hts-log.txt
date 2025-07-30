@@ -1,0 +1,23 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 10 Mar 2025 21:45:25 at http://www.ecologytheme.com/theme/eduwise/course.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.ecologytheme.com/theme/eduwise/course.html -O1 "C:\My Web Sites\webv1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:45:28	Warning: 	Note: due to www.ecologytheme.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+21:53:10	Error: 	"Not Found" (404) at link www.ecologytheme.com/theme/eduwise/css/assets/Flaticon.svg (from www.ecologytheme.com/theme/eduwise/css/assets/flaticon.css)
+21:53:10	Error: 	"Not Found" (404) at link www.ecologytheme.com/theme/eduwise/css/assets/grabbing.png (from www.ecologytheme.com/theme/eduwise/css/assets/owl.carousel.css)
+21:53:10	Error: 	"Not Found" (404) at link www.ecologytheme.com/theme/eduwise/css/assets/AjaxLoader.gif (from www.ecologytheme.com/theme/eduwise/css/assets/owl.theme.css)
+21:53:33	Error: 	"Not Found" (404) at link www.ecologytheme.com/theme/eduwise/team.html (from www.ecologytheme.com/theme/eduwise/index-4.html)
+21:53:33	Error: 	"Not Found" (404) at link www.ecologytheme.com/theme/eduwise/css/assets/revolution/openhand.cur (from www.ecologytheme.com/theme/eduwise/css/assets/revolution/settings.css)
+21:53:33	Error: 	"Not Found" (404) at link www.ecologytheme.com/theme/eduwise/css/assets/revolution/closedhand.cur (from www.ecologytheme.com/theme/eduwise/css/assets/revolution/settings.css)
+21:53:33	Error: 	"Not Found" (404) at link www.ecologytheme.com/theme/eduwise/css/assets/assets/gridtile.png (from www.ecologytheme.com/theme/eduwise/css/assets/revolution/settings.css)
+21:53:33	Error: 	"Not Found" (404) at link www.ecologytheme.com/theme/eduwise/css/assets/assets/gridtile_white.png (from www.ecologytheme.com/theme/eduwise/css/assets/revolution/settings.css)
+21:53:33	Error: 	"Not Found" (404) at link www.ecologytheme.com/theme/eduwise/css/assets/assets/gridtile_3x3.png (from www.ecologytheme.com/theme/eduwise/css/assets/revolution/settings.css)
+21:53:33	Error: 	"Not Found" (404) at link www.ecologytheme.com/theme/eduwise/css/assets/assets/gridtile_3x3_white.png (from www.ecologytheme.com/theme/eduwise/css/assets/revolution/settings.css)
+21:53:33	Error: 	"Not Found" (404) at link www.ecologytheme.com/theme/eduwise/css/assets/assets/coloredbg.png (from www.ecologytheme.com/theme/eduwise/css/assets/revolution/settings.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 8 seconds : 207 links scanned, 195 files written (13075580 bytes overall) [13592023 bytes received at 27852 bytes/sec], 1.8 requests per connection
+(11 errors, 1 warnings, 0 messages)
